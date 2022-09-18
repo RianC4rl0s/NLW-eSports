@@ -1,7 +1,7 @@
 # NLW-eSports
 
 Hi, this project was made at #NextLevelWeek by https://www.rocketseat.com.br/.
-Three simple apps were created, mobile frontend, web frontend and backend.
+Three simple apps were created, mobile app, web frontend and backend.
 
 ### To start the applications, initially open a terminal in the root folder of each one of them and type:
 
